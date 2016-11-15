@@ -1,0 +1,8 @@
+description: "The Yellowknife Math Circle is a space for students to collaborate and grow while exploring interesting and challenging mathematical ideas."
+author: "Colin Kennedy"
+type: "Organization"
+
+markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
