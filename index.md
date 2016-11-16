@@ -5,12 +5,12 @@ title: Yellowknife Math Circle
 
 The Yellowknife Math Circle is a **free** program which aims to provide interested students with a space to collaborate, to experiment, and to set their own research agendas as junior mathematicians.
 
-For the 2016-2017 school year, two circles are planned, and will (tentatively) be held on alternating Wednesday evenings at Aurora College.
+For the 2016-2017 school year, two circles are planned, and each will run from 6:45-7:45 on alternating Wednesday evenings at Aurora College.
 
 - For students in grades **5** and **6**, the **Babbage - Lovelace** circle
 - For students in grades **7** and **8**, the **Ramanujan - Hardy** circle
 
-Registration is required - [**click here to register!**](https://docs.google.com/forms/d/e/1FAIpQLSdAx7LJAsiz9h9iaMd6qEjxLAkT-jWIaopFh-vJeuaPbDeGDg/viewform)
+Registration is required - [**click here to register!**](https://docs.google.com/forms/d/e/1FAIpQLSdAx7LJAsiz9h9iaMd6qEjxLAkT-jWIaopFh-vJeuaPbDeGDg/viewform) The first session for the Babbage - Lovelace group is tentatively scheduled for the **23rd of November**, with Ramanujan - Hardy following on the **30th**. 
 
 ## What's a math circle?
 
@@ -24,7 +24,8 @@ Sessions largely sidestep the K-12 curriculum, instead providing students with p
 
 The sessions are designed to be challenging for all students, including the strongest. But they are also designed to be accessible - no special degree of skill with school mathematics is required. Good candidates can be characterized by:
 
-* **curiosity**, willingness to follow through on uncertain ideas
+* **curiosity** - being unsatisfied with partial understanding 
+* **bravery** - willingness to follow through on uncertain ideas
 * an **argumentative streak**
 * a sense of **delight at resolving complicated situations**
 
