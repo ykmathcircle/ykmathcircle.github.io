@@ -4,7 +4,7 @@ var tagline = document.getElementsByClassName("project-tagline")[0];
 var main = document.getElementsByClassName("main-content")[0];
 
 // main.setAttribute("padding-top", header.getAttribute("height"));
-main.style.height = "" + (header.clientHeight + 25 ) + "px";
+main.setAttribute("style", "padding-top: " + (header.clientHeight + 25 ) + "px");
 
 
 // document.addEventListener("scroll", function(){
