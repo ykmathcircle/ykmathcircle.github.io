@@ -66,20 +66,31 @@ a {
   .page-header {
     padding: 5rem 6rem; } 
   .page-header.shrink {
-    padding: 0rem;
+    padding: 1rem 1rem;
   } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 3rem 4rem; }
+  .page-header.shrink {
+    padding: .75rem .75rem;
+  } }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 2rem 1rem; } }
+    padding: 2rem 1rem; }
+  .page-header.shrink {
+    padding: .5rem .5rem;
+  } }
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem; }
+  margin-bottom: 0.1rem;
+  transition: all 0.5s ease-in-out; }
+
+.project-name.shrink{
+  display: none;
+}
 
 @media screen and (min-width: 64em) {
   .project-name {

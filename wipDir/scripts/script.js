@@ -15,7 +15,9 @@ document.onscroll = function () {
     if (document.scrollingElement.scrollTop > 100){
         console.log("shrink");
         header.classList.add("shrink");
+        projectName.classList.add("shrink");
     } else {
         header.classList.remove("shrink");
+        projectName.classList.add("shrink");
     }
 }
