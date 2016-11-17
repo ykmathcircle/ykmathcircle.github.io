@@ -16,8 +16,10 @@ document.onscroll = function () {
         console.log("shrink");
         header.classList.add("shrink");
         projectName.classList.add("shrink");
+        tagline.classList.add("shrink");
     } else {
         header.classList.remove("shrink");
-        projectName.classList.add("shrink");
+        projectName.classList.remove("shrink");
+        tagline.classList.remove("shrink");
     }
 }
