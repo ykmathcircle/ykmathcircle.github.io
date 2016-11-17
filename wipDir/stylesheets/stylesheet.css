@@ -86,10 +86,11 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
+  max-height: 500px;
   transition: all 0.5s ease-in-out; }
 
 .project-name.shrink{
-  height: 0px;
+  max-height: 0px;
 }
 
 @media screen and (min-width: 64em) {
