@@ -1,3 +1,3 @@
-document.addEventListener("onscroll", function(){
+document.addEventListener("scroll", function(){
     alert ("hi");
 });
