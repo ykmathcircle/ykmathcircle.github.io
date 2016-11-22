@@ -10,7 +10,7 @@ For the 2016-2017 school year, two circles are planned, and each will run from 6
 - For students in grades **5** and **6**, the **Babbage - Lovelace** circle
 - For students in grades **7** and **8**, the **Ramanujan - Hardy** circle
 
-Registration is required - [**click here to register!**](https://docs.google.com/forms/d/e/1FAIpQLSdAx7LJAsiz9h9iaMd6qEjxLAkT-jWIaopFh-vJeuaPbDeGDg/viewform) The first session for the Babbage - Lovelace group is tentatively scheduled for the **23rd of November**, with Ramanujan - Hardy following on the **30th**. 
+Registration is required - [**click here to register!**](https://docs.google.com/forms/d/e/1FAIpQLSdAx7LJAsiz9h9iaMd6qEjxLAkT-jWIaopFh-vJeuaPbDeGDg/viewform) The first session for the Babbage - Lovelace group is scheduled for the **30th of November**, with Ramanujan - Hardy following on the **7th of December**. 
 
 ## What's a math circle?
 
