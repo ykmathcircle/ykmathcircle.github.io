@@ -91,6 +91,7 @@ a {
   transition: all 0.5s ease-in-out; }
 
 .project-name.shrink{
+  margin-bottom: 0rem;
   max-height: 0px;
 }
 
@@ -113,6 +114,7 @@ a {
   overflow: hidden;
   max-height: 500px; }
 .project-tagline.shrink {
+  margin-bottom: 0rem;
   max-height: 0px;
 }
 
