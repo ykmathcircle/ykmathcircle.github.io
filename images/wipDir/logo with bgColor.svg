@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="750"
@@ -27,6 +28,18 @@
   </metadata>
   <defs
      id="defs5287">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11965">
+      <stop
+         style="stop-color:#000028;stop-opacity:1"
+         offset="0"
+         id="stop11967" />
+      <stop
+         style="stop-color:#104275;stop-opacity:1"
+         offset="1"
+         id="stop11969" />
+    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath10787">
@@ -7918,6 +7931,15 @@
          id="path6939"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11965"
+       id="linearGradient11971"
+       x1="-409.97095"
+       y1="780.32257"
+       x2="-1207.9709"
+       y2="-17.677389"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -7929,13 +7951,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1137"
      id="namedview5285"
      showgrid="false"
      inkscape:zoom="0.50000001"
      inkscape:cx="115.44"
      inkscape:cy="382.6562"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4157"
@@ -7944,7 +7966,7 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="false" />
   <rect
-     style="opacity:1;fill:#000028;fill-opacity:1;stroke:none;stroke-width:55;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:url(#linearGradient11971);fill-opacity:1.0;stroke:none;stroke-width:55;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect5837"
      width="800"
      height="800"
