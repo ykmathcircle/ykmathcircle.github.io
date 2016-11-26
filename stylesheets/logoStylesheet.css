@@ -58,7 +58,14 @@ a {
   text-align: center;
   background-color: #000028;
   /*background-image: linear-gradient(120deg, #000028, #159957);*/
-  height: 100vh }
+  background-image: linear-gradient(120deg, #104275, #000028);
+  /*height: 100vh;*/
+   }
+
+img.logo {
+  width: 275px;
+  max-width: 80%;
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
