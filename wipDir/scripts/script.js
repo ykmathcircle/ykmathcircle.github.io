@@ -1,4 +1,5 @@
 var main = document.getElementsByClassName("main-content")[0];
+var header = document.getElementsByClassName("page-header")[0];
 main.setAttribute("style", "padding-top: " + (header.clientHeight + 25) + "px");
 
 shrinkers = document.getElementsByClassName("shrinker");
