@@ -1,21 +1,10 @@
-var main = document.getElementsByClassName("main-content")[0];
-var header = document.getElementsByClassName("page-header")[0];
-main.setAttribute("style", "padding-top: " + (header.clientHeight + 25) + "px");
-
-shrinkers = document.getElementsByClassName("shrinker");
-
-
-
-
+var fixedHead = document.getElementById("fixedHeader");
 
 document.onscroll = function () {
-    if (document.scrollingElement.scrollTop > 100) {
-        for (var i=0; i<shrinkers.length; i++){
-            shrinkers[i].classList.add("shrink");
-        }
-    } else {
-        for (var i=0; i<shrinkers.length; i++){
-            shrinkers[i].classList.remove("shrink");
-        }
+    if (document.scrollingElement.scrollTop > 600) {
+        fixedHead.classList.add("page-header-fixed-visible");
+    }
+    else {
+        fixedHead.classList.remove("page-header-fixed-visible");
     }
 }
