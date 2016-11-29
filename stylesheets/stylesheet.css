@@ -60,6 +60,18 @@ a {
   background-color: #000028;
   background-image: linear-gradient(120deg, #104275, #000028); }
 
+.page-header.page-header-fixed{
+  position: fixed;
+  width: 100%;
+  transition: ease-in-out;
+  transform: translateY(calc(-100% - .2rem));
+  padding: 0.25rem;
+}
+
+.page-header.page-header-fixed.page-header-fixed-visible{
+  transform: translateY(0);
+}
+
 img.logo {
   width: 350px;
   max-width: 80%;
