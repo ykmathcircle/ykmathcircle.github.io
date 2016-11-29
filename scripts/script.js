@@ -2,7 +2,7 @@ var fixedHead = document.getElementById("fixedHeader");
 var topHead = document.getElementById("topHeader");
 
 document.onscroll = function () {
-    topHead.style.top = (- document.scrollingElement.scrollTop / 2 ) + "";
+    topHead.style.top = (- document.scrollingElement.scrollTop / 2 ) + "px";
 
     if (document.scrollingElement.scrollTop > 600) {
         fixedHead.classList.add("page-header-fixed-visible");
