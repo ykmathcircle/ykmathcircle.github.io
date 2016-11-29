@@ -7,7 +7,7 @@ document.onscroll = function () {
     console.log(newTop);
     topHead.style.top = newTop;
 
-    if (document.scrollingElement.scrollTop > 600) {
+    if (document.scrollingElement.scrollTop > 750) {
         fixedHead.classList.add("page-header-fixed-visible");
     }
     else {
