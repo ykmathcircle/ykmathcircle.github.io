@@ -55,7 +55,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  width: 100%;
+  overflow: hidden;
   top: 0px;
   color: #fff;
   text-align: center;
