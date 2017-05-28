@@ -5,12 +5,12 @@ title: Yellowknife Math Circle
 
 The Yellowknife Math Circle is a **free** program which aims to provide interested students with a space to collaborate, to experiment, and to set their own research agendas as junior mathematicians.
 
-For the 2016-2017 school year, two circles are planned, and each will run from 6:45-7:45 on alternating Wednesday evenings at Aurora College.
+Two circles ran during the 2016-2017 school year on alternating Wednesday evenings at Aurora College:
 
 - For students in grades **5** and **6**, the **Babbage - Lovelace** circle
 - For students in grades **7** and **8**, the **Ramanujan - Hardy** circle
 
-Registration is required - [**click here to register!**](https://docs.google.com/forms/d/e/1FAIpQLSdAx7LJAsiz9h9iaMd6qEjxLAkT-jWIaopFh-vJeuaPbDeGDg/viewform) The first session for the Babbage - Lovelace group is scheduled for the **30th of November**, with Ramanujan - Hardy following on the **7th of December**. 
+We expect to return with similar offerings during the 2017-2018 school year.
 
 ## What's a math circle?
 
@@ -33,7 +33,7 @@ Students who have an unsteady relationship with math but are well described by t
 
 ## Extra-curricular math? For fun? Are you nuts?
 
-I know, I know. We have this 'complicated' relationship with math. It's valuable - there's a sense that complex mathematical processes keep our satellites in orbit, that scientific and social research rely on mathematical analysis, etc. But our individual experiences with mathematics tend to be as an arbitrary barrier (what does calculus have to do with my B.A.?) and as a bizarre instrument for generating status orderings among students. For many, the word triggers an anxious response.
+I know, I know. We have this 'complicated' relationship with math. It's valuable - there's a sense that complex mathematical processes keep our satellites in orbit, that scientific and social research rely on mathematical analysis, etc. But our individual experiences with mathematics tend to be as an arbitrary barrier (what does calculus have to do with my B.A.?) and as a bizarre instrument for generating status orderings among students. For many, the word 'mathematics' itself triggers an anxious response.
 
 At the same time, there's a community that considers mathematics as an art, as a boundless creative medium. Circles serve as an initiation into this community by providing a casual, positive atmosphere where students can self-direct and surprise themselves with creative solutions to problems which seemed impossible to crack.
 
